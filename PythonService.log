@@ -1,0 +1,73 @@
+[2020-04-17 11:55:01,608] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-17 11:55:05,214] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [17/Apr/2020 11:55:05] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-04-17 11:55:05,229] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [17/Apr/2020 11:55:05] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[2020-04-17 11:55:09,797] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:77} INFO - Input from AGServer
+[2020-04-17 11:55:09,797] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:78} INFO - ['wrutewy']
+[2020-04-17 11:55:09,799] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:86} INFO - Temp of ParentAssetType
+[2020-04-17 11:55:09,799] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:87} INFO - {'prediction': ['Test / Measurement'], 'stausCode': '200'}
+[2020-04-17 11:55:09,800] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [17/Apr/2020 11:55:09] "[37mPOST /predictParentAssetType HTTP/1.1[0m" 200 -
+[2020-04-17 15:40:12,517] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-17 15:40:14,729] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [17/Apr/2020 15:40:14] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-04-17 15:40:16,304] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [17/Apr/2020 15:40:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2020-04-17 15:40:24,813] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:77} INFO - Input from AGServer
+[2020-04-17 15:40:24,813] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:78} INFO - ['wrwr']
+[2020-04-17 15:40:24,814] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:86} INFO - Temp of ParentAssetType
+[2020-04-17 15:40:24,814] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:87} INFO - {'prediction': ['Test / Measurement'], 'stausCode': '200'}
+[2020-04-17 15:40:24,815] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [17/Apr/2020 15:40:24] "[37mPOST /predictParentAssetType HTTP/1.1[0m" 200 -
+[2020-04-17 15:42:54,914] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-17 15:42:58,269] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [17/Apr/2020 15:42:58] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-04-17 15:43:03,847] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:37} INFO - Input from AGServer for AssetType api
+[2020-04-17 15:43:03,847] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:38} INFO - ['']
+[2020-04-17 15:43:03,849] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:46} INFO - Temp Json of AssetType
+[2020-04-17 15:43:03,849] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:47} INFO - {'prediction': ['Power Supplies'], 'stausCode': '200'}
+[2020-04-17 15:43:03,853] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [17/Apr/2020 15:43:03] "[37mPOST /predict HTTP/1.1[0m" 200 -
+[2020-04-17 15:43:39,012] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:37} INFO - Input from AGServer for AssetType api
+[2020-04-17 15:43:39,012] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:38} INFO - ['K4000 Mobile Workstation Cart']
+[2020-04-17 15:43:39,013] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:46} INFO - Temp Json of AssetType
+[2020-04-17 15:43:39,014] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:47} INFO - {'prediction': ['Accessories, Carts, Cases'], 'stausCode': '200'}
+[2020-04-17 15:43:39,017] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [17/Apr/2020 15:43:39] "[37mPOST /predict HTTP/1.1[0m" 200 -
+[2020-04-17 15:45:31,376] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-17 15:45:34,655] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [17/Apr/2020 15:45:34] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-04-17 15:45:40,299] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:37} INFO - Input from AGServer for AssetType api
+[2020-04-17 15:45:40,299] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:38} INFO - ['"""""']
+[2020-04-17 15:45:40,301] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:46} INFO - Temp Json of AssetType
+[2020-04-17 15:45:40,301] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:47} INFO - {'prediction': ['Power Supplies'], 'stausCode': '200'}
+[2020-04-17 15:45:40,305] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [17/Apr/2020 15:45:40] "[37mPOST /predict HTTP/1.1[0m" 200 -
+[2020-04-20 16:14:42,110] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-20 16:15:18,819] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-20 16:15:18,819] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-20 16:15:23,535] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [20/Apr/2020 16:15:23] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-04-20 16:15:23,535] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [20/Apr/2020 16:15:23] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-04-20 16:15:24,711] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [20/Apr/2020 16:15:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2020-04-20 16:15:24,711] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [20/Apr/2020 16:15:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2020-04-20 16:15:30,343] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:37} INFO - Input from AGServer for AssetType api
+[2020-04-20 16:15:30,343] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:37} INFO - Input from AGServer for AssetType api
+[2020-04-20 16:15:30,343] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:38} INFO - ['K4000 Mobile Workstation Cart']
+[2020-04-20 16:15:30,343] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:38} INFO - ['K4000 Mobile Workstation Cart']
+[2020-04-20 16:15:30,345] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:46} INFO - Temp Json of AssetType
+[2020-04-20 16:15:30,345] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:46} INFO - Temp Json of AssetType
+[2020-04-20 16:15:30,345] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:47} INFO - {'prediction': ['Accessories, Carts, Cases'], 'stausCode': '200'}
+[2020-04-20 16:15:30,345] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:47} INFO - {'prediction': ['Accessories, Carts, Cases'], 'stausCode': '200'}
+[2020-04-20 16:15:30,349] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [20/Apr/2020 16:15:30] "[37mPOST /predict HTTP/1.1[0m" 200 -
+[2020-04-20 16:15:30,349] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [20/Apr/2020 16:15:30] "[37mPOST /predict HTTP/1.1[0m" 200 -
+[2020-04-22 17:14:13,149] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-22 17:14:53,312] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [22/Apr/2020 17:14:53] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-04-22 17:14:54,658] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [22/Apr/2020 17:14:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2020-04-22 17:15:06,594] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:37} INFO - Input from AGServer for AssetType api
+[2020-04-22 17:15:06,594] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:38} INFO - ['K4000 Mobile Workstation Cart']
+[2020-04-22 17:15:06,596] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:46} INFO - Temp Json of AssetType
+[2020-04-22 17:15:06,596] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:47} INFO - {'prediction': ['Accessories, Carts, Cases'], 'stausCode': '200'}
+[2020-04-22 17:15:06,600] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [22/Apr/2020 17:15:06] "[37mPOST /predict HTTP/1.1[0m" 200 -
+[2020-04-22 17:17:53,497] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [22/Apr/2020 17:17:53] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-04-22 17:17:57,537] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:37} INFO - Input from AGServer for AssetType api
+[2020-04-22 17:17:57,537] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:38} INFO - ['3000z Oscilloscopes']
+[2020-04-22 17:17:57,539] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:46} INFO - Temp Json of AssetType
+[2020-04-22 17:17:57,539] {E:/ExistingAssetType Classification/asset-type-classifier-master/other-classifiers/Project/Service.py:47} INFO - {'prediction': ['Digital Oscilloscopes'], 'stausCode': '200'}
+[2020-04-22 17:17:57,543] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [22/Apr/2020 17:17:57] "[37mPOST /predict HTTP/1.1[0m" 200 -
+[2020-04-23 10:52:43,061] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-04-23 10:52:49,289] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [23/Apr/2020 10:52:49] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-04-23 10:53:03,309] {E:/ML Deployment/Heroku/Project/Service.py:37} INFO - Input from AGServer for AssetType api
+[2020-04-23 10:53:03,309] {E:/ML Deployment/Heroku/Project/Service.py:38} INFO - ['oscilloscopes\r\n']
+[2020-04-23 10:53:03,312] {E:/ML Deployment/Heroku/Project/Service.py:46} INFO - Temp Json of AssetType
+[2020-04-23 10:53:03,312] {E:/ML Deployment/Heroku/Project/Service.py:47} INFO - {'prediction': ['Digital Oscilloscopes'], 'stausCode': '200'}
+[2020-04-23 10:53:03,316] {C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py:122} INFO - 127.0.0.1 - - [23/Apr/2020 10:53:03] "[37mPOST /predict HTTP/1.1[0m" 200 -
