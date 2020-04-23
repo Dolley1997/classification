@@ -103,7 +103,7 @@ def createResponseData(inputData,prediction,statusCode):
     print(json_data)
     return json_data
 '''
-
+'''
 if __name__ == '__main__':
     logger = logging.getLogger('werkzeug')# WSGI logger
     handler = logging.FileHandler('PythonService.log')
@@ -124,4 +124,3 @@ if __name__ == '__main__':
     handler.setFormatter(formatter)
     logger.addHandler(handler)
     app.run(host='0.0.0.0',port=8080)
-'''
